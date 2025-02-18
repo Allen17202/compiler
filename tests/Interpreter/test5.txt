@@ -1,0 +1,9 @@
+begin 
+x:=145685;
+y:=15722;
+z:=8545;
+
+if (x < y) then z := z * x
+else z := y / z
+  
+end

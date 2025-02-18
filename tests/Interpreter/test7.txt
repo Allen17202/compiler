@@ -1,0 +1,5 @@
+begin
+x := 16;
+c := 5;
+if x<2000 then if true then x:=x+1 else x:=x-1 else c:=x-5
+end

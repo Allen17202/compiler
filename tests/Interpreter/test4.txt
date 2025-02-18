@@ -1,0 +1,4 @@
+begin
+x := 200;
+while x<=3000 do x:= x *15
+end
