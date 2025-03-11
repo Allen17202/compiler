@@ -1,0 +1,5 @@
+begin
+bool x;
+int y;
+while x do y := y + 1
+end

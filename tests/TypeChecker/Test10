@@ -1,0 +1,7 @@
+begin
+int x;
+int y;
+int z;
+x := 1000;
+while x < 2000 do y := y + z
+end
